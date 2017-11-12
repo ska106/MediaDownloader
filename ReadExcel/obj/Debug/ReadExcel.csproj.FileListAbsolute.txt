@@ -1,0 +1,9 @@
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.Cache
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\bin\Debug\Excel.dll
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Kimco\workSpace_VisualStudio\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
